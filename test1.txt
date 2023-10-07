@@ -1,2 +1,2 @@
 Hello World！
-developer B突发灵感对这行进行了修改
+开发者developer A修改了文件
